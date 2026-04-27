@@ -70,7 +70,7 @@ async function loggatiPandas() {
     }
 }
 
-document.getElementById('bottone').addEventListener('click', loggatiPandas);      
+document.getElementById('bottonePandas').addEventListener('click', loggatiPandas);      
 document.getElementById('btn_registrati').addEventListener('click', controllaCredenziali);
 document.getElementById('btn_registrati_2').addEventListener('click', controllaCredenziali_2);
 
